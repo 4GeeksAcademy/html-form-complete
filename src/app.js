@@ -42,30 +42,30 @@ window.onload = function() {
       campos.forEach(campo => (campo.style.backgroundColor = ""));
     }
   }
-  campo1.addEventListener("change", () => {
-    validation();
-  });
-  campo2.addEventListener("change", () => {
-    validation();
-  });
-  campo3.addEventListener("change", () => {
-    validation();
-  });
-  campo4.addEventListener("change", () => {
-    validation();
-  });
-  campo5.addEventListener("change", () => {
-    validation();
-  });
-  campo6.addEventListener("change", () => {
-    validation();
-  });
-  campo7.addEventListener("change", () => {
-    validation();
-  });
-  campo8.addEventListener("change", () => {
-    validation();
-  });
+  // campo1.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo2.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo3.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo4.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo5.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo6.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo7.addEventListener("change", () => {
+  //   validation();
+  // });
+  // campo8.addEventListener("change", () => {
+  //   validation();
+  // });
   sbtn.addEventListener("click", () => {
     validation();
   });
